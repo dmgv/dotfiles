@@ -4,7 +4,7 @@
 brew tap caskroom/cask
 brew tap caskroom/versions
 
-# Dev
+#Apps
 brew cask install atom
 # brew cask install balsamiq-mockups [$89.00]
 brew cask install docker
@@ -17,31 +17,21 @@ brew cask install visual-studio-code
 brew cask install sublime-text
 brew cask install imagealpha
 brew cask install imageoptim
-
-#Extensions
 brew cask install dropbox
 # brew cask install istat-menus [$9.99]
 # brew cask install mosaic [£24.99]
 # brew cask install paste [$9.99]
 brew cask install the-unarchiver
-
-# Grapfics & Design
 # brew cask install iconjar [€24.99]
 # brew cask install inboard [$19.99]
 # brew cask install rightfont [$39]
 # brew cask install sip [$9.99]
 # brew cask install sketch [$99]
 # brew cask install sketch-toolbox
-
-# iLife
 brew cask install telegram
 brew cask install discord
-
-#Music & Video
 brew cask install vlc
 brew cask install spotify
-
-#Productivity
 brew cask install firefox
 brew cask install google-chrome
 brew cask install chrome-devtools
@@ -50,8 +40,6 @@ brew cask install grammarly
 brew cask install numi
 brew cask install slack
 brew cask install spark
-
-#Utilities
 #brew cask install 1password [35.88/y]
 #brew cask install cleanmymac [$39.95]
 #brew cask install gemini [$19.95]
@@ -61,7 +49,7 @@ brew cask install kap
 brew cask install dash
 brew cask install muzzle
 brew cask install overkill
-brew cask install hyper
+# brew cask install hyper
 brew cask install vanilla
 brew cask install fontbase
 
