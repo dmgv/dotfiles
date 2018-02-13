@@ -1,6 +1,6 @@
 # Diego's dotfiles-to-be
 
-[macOS preferences](macOS-preferences.md)
+[macOS preferences](macOS-Preferences.md)
 
 
-[Finder preferences](Finder-Preferences/md)
+[Finder preferences](Finder-Preferences.md)
