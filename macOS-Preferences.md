@@ -1,106 +1,72 @@
-## macOS preferences
+# macOS preferences
 
-### General
-	
-![Genral](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/General.png)
+## General
+
+![General](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/General.png)
 
 * **Appearance**: Graphite
 * **Use dark menu bar and Dock**: Checked
 * **Siderbar icon size**: Small
-* **Close windows when quitting an app**: unchecked 
+* **Close windows when quitting an app**: unchecked
 
-### Desktop & Screen Saver
+## Desktop & Screen Saver
 
-### Dock
-![Genral](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/Desktop&ScreenSaverScreenSaver.png)
+![Desktop & Screen Saver](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/Desktop&ScreenSaverDesktop.png)
 
-![Genral](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/Desktop&ScreenSaverHotCorners.png)
+![Desktop & Screen Saver](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/Desktop&ScreenSaverScreenSaver.png)
 
-![Genral](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
+![Desktop & Screen Saver](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/Desktop&ScreenSaverHotCorners.png)
 
-### Language & Region
+## Dock
 
-![Genral](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
+![Dock](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/Dock.png)
+
+## Mission Control
+
+![Mission Control](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/MissionControl.png)
+
+## Language & Region
+
+![Language & Region](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/Language&Region.png)
 
 ### Security & Privacy
 
-![Genral](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
+![Security & Privacy](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/Security&PrivacyGeneral.png)
 
-### Spotlight
+![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/Security&PrivacyFileVault.png)
 
-![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
+## Notifications
 
-### Notifications
-![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
+![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/Notifications.png)
 
-### Displays
+## Displays
+
 ![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/Dispays.png)
 
-### Energy Saver
-![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
+![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/DispaysNightShift.png)
 
-### Keyboard
+## Energy Saver
+
+![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/DispaysNightShift.png)
+
+## Keyboard
+
 ![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/Keyboard.png)
 
-### Mouse
-![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
+## Trackpad
 
-### Trackpad
-![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
+![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/TrackpadPoint&Click.png)
+![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/TrackpadScroll&Zoom.png)
+![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/TrackpadMoreGestures.png)
 
-### Printer & Scanners
-![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
+## App Store
 
-### Sound
-![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
-
-### Startup Disk
-![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
-
-### iCloud
-![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
-
-### Internet Accounts
-![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
-
-### App Store
 ![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/AppStore.png)
 
-### Network
-![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
+## Accessibility
 
-### Bluetooth
-![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
-
-### Extensions
-![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
-
-### Sharing
-![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
-
-### Touch ID
-![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
-
-### Users & Groups
-![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
-
-### Parental Controls
-![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
-
-### Siri
-![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
-
-### Date & Time
-![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
-
-### Time Machine
 ![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/Accessibility>Mouse&Trackpad.png)
 
-### Accessibility
-![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
-
-### FLiP:mac 4 Brasil
-![](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/)
+## FLiP:mac 4 Brasil
 
 ### Hazel
-
