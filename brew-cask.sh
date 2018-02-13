@@ -1,5 +1,22 @@
 #!/bin/bash
 
+xcode-select --install
+
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+## Garantir que está tudo em ordem .
+brew doctor
+
+## Tap Repos
+brew tap homebrew/dupes
+brew tap homebrew/versions
+brew tap homebrew/homebrew-php
+brew tap homebrew/apache
+
+## Verificar
+brew update && brew upgrade
+
+
 # Install Caskroom
 brew tap caskroom/cask
 brew tap caskroom/versions
