@@ -1,5 +1,7 @@
 # macOS preferences
 
+[README](README.md)
+
 ## General
 
 ![General](https://github.com/dmgv/dotfiles/raw/master/img/macOSPreferences/General.png)

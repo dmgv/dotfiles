@@ -1,5 +1,7 @@
 # Finder preferences
 
+[README](README.md)
+
 ## General
 
 ![](https://github.com/dmgv/dotfiles/raw/master/img/FinderPreferences/General.png)
