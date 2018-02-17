@@ -33,6 +33,7 @@ brew cask install atom
 brew cask install chrome-devtools
 brew cask install dash
 brew cask install docker
+brew cask install hyper
 brew cask install imagealpha
 brew cask install imageoptim
 brew cask install iterm2
@@ -80,6 +81,7 @@ brew cask install spark
 
 ## Utilities
 #brew cask install 1password [35.88/y]
+# brew cask install alfred
 #brew cask install cleanmymac [$39.95]
 brew cask install dropbox
 brew cask install handbrake
@@ -91,6 +93,7 @@ brew cask install muzzle
 # NewFileMenu [1.99]
 brew cask install overkill
 # brew cask install paste [$9.99]
+brew cask install rocket
 brew cask install the-unarchiver
 brew cask install transmission
 brew cask install vanilla
