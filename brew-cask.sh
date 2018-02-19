@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo spctl –-master-disable
+
 xcode-select --install
 
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -7,11 +9,6 @@ xcode-select --install
 ## Garantir que está tudo em ordem .
 brew doctor
 
-## Tap Repos
-brew tap homebrew/dupes
-brew tap homebrew/versions
-brew tap homebrew/homebrew-php
-brew tap homebrew/apache
 
 ## Verificar
 brew update && brew upgrade
@@ -75,7 +72,6 @@ brew cask install macdown
 #brew cask install mindnode-pro [$39.99]
 brew cask install numi
 brew cask install slack
-brew cask install spark
 # Things [$49.99]
 # Ulysses [$39.99/y]
 
@@ -106,16 +102,10 @@ brew cask install vanilla
 
 brew tap caskroom/fonts
 brew cask install font-anonymous-pro
-brew cask install font-dejavu-sans-mono-for-powerline
-brew cask install font-droid-sans-mono
-brew cask install font-droid-sans-mono-for-powerline
 brew cask install font-meslo-lg
 brew cask install font-input
 brew cask install font-inconsolata
 brew cask install font-inconsolata-for-powerline
-brew cask install font-liberation-mono
-brew cask install font-liberation-mono-for-powerline
-brew cask install font-liberation-sans
 brew cask install font-meslo-lg
 brew cask install font-nixie-one
 brew cask install font-office-code-pro
@@ -125,7 +115,6 @@ brew cask install font-source-code-pro
 brew cask install font-source-code-pro-for-powerline
 brew cask install font-source-sans-pro
 brew cask install font-ubuntu
-brew cask install font-ubuntu-mono-powerline
 brew cask install font-fira-code
 
 ########################################
