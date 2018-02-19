@@ -57,3 +57,7 @@ adf.ly##DIV[id="_bd"][class="sm_content"]
 @@||blockadblock.com^$generichide
 *.blockadblock.com/*
 ```
+
+## Anti adblock killer
+
+http://reek.github.io/anti-adblock-killer/#filterlist
