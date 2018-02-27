@@ -4,3 +4,7 @@
 
 
 [Finder preferences](Finder-Preferences.md)
+
+```bash
+find . -name Icon? -exec chflags hidden Icon$'\r' {} +
+```
