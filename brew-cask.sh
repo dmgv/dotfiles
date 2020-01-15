@@ -25,20 +25,20 @@ brew tap caskroom/versions
 ########################################
 
 ## Developer Tools
-brew cask install atom
+# brew cask install atom
 # brew cask install balsamiq-mockups [$89.00]
-brew cask install chrome-devtools
-brew cask install dash
+# brew cask install chrome-devtools
+# brew cask install dash
 brew cask install docker
-brew cask install hyper
-brew cask install imagealpha
-brew cask install imageoptim
+# brew cask install hyper
+# brew cask install imagealpha
+# brew cask install imageoptim
 brew cask install iterm2
 # brew cask install kaleidoscope [$69.99]
 # brew cask install omnigraffle [$199.99]
 brew cask install postman
 # Quiver [APP Store]
-brew cask install sublime-text
+# brew cask install sublime-text
 # brew cask install tower [$79.00]
 brew cask install visual-studio-code
 
@@ -68,7 +68,7 @@ brew cask install firefox
 brew cask install google-chrome
 brew cask install grammarly
 # Hemingway Editor [$19,99]
-brew cask install macdown
+# brew cask install macdown
 #brew cask install mindnode-pro [$39.99]
 brew cask install numi
 brew cask install slack
@@ -85,14 +85,14 @@ brew cask install handbrake
 # brew cask install istat-menus [$9.99]
 brew cask install kap
 # brew cask install mosaic [£24.99]
-brew cask install muzzle
+# brew cask install muzzle
 # NewFileMenu [1.99]
 brew cask install overkill
 # brew cask install paste [$9.99]
 brew cask install rocket
 brew cask install the-unarchiver
 brew cask install transmission
-brew cask install vanilla
+# brew cask install vanilla
 
 ########################################
 ########################################
@@ -101,21 +101,21 @@ brew cask install vanilla
 ########################################
 
 brew tap caskroom/fonts
-brew cask install font-anonymous-pro
-brew cask install font-meslo-lg
-brew cask install font-input
-brew cask install font-inconsolata
-brew cask install font-inconsolata-for-powerline
-brew cask install font-meslo-lg
-brew cask install font-nixie-one
-brew cask install font-office-code-pro
-brew cask install font-pt-mono
-brew cask install font-raleway font-roboto
-brew cask install font-source-code-pro
-brew cask install font-source-code-pro-for-powerline
-brew cask install font-source-sans-pro
-brew cask install font-ubuntu
-brew cask install font-fira-code
+# brew cask install font-meslo-lg
+# brew cask install font-anonymous-pro
+# brew cask install font-input
+# brew cask install font-inconsolata
+# brew cask install font-inconsolata-for-powerline
+# brew cask install font-meslo-lg
+# brew cask install font-nixie-one
+# brew cask install font-office-code-pro
+# brew cask install font-pt-mono
+# brew cask install font-raleway font-roboto
+# brew cask install font-source-code-pro
+# brew cask install font-source-code-pro-for-powerline
+# brew cask install font-source-sans-pro
+# brew cask install font-ubuntu
+# brew cask install font-fira-code
 
 ########################################
 ########################################
