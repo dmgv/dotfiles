@@ -41,6 +41,7 @@ brew cask install postman
 # brew cask install sublime-text
 # brew cask install tower [$79.00]
 brew cask install visual-studio-code
+brew cask install graphql-playground
 
 ## Graphics & Design
 # Ember 2 [FREE ALPHA]
@@ -65,6 +66,7 @@ brew cask install vlc
 
 ## Productivity
 brew cask install firefox
+brew cask install homebrew/cask-versions/firefox-developer-edition
 brew cask install google-chrome
 brew cask install grammarly
 # Hemingway Editor [$19,99]
@@ -72,6 +74,8 @@ brew cask install grammarly
 #brew cask install mindnode-pro [$39.99]
 brew cask install numi
 brew cask install slack
+brew cask install rescuetime
+brew cask install dropbox
 # Things [$49.99]
 # Ulysses [$39.99/y]
 
