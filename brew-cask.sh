@@ -148,5 +148,7 @@ brew cask install qlvideo
 # brew cask install aerial
 brew cask install fliqlo
 
+brew install zsh-syntax-highlighting
+
 # Remove outdated versions and download cache
 brew cask cleanup
